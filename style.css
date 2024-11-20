@@ -1,3 +1,14 @@
 body{
     font-family: "PT Serif", serif;
+    background: black;
+    color:blue;
+    margin: 0px;
+    margin-bottom: 100px;
+}
+.chamada{
+    background: blue;
+    display: flex;
+    justify-content: center;
+    padding-top: 80px;
+    padding-bottom: 80px;
 }
